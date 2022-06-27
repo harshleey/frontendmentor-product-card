@@ -131,7 +131,7 @@ button .cart {
  margin-left: 3%;
 }
 
-@media all and (min-width: 800px) {
+@media all and (min-width: 700px) {
   body {
   font-size: 1.1rem;
  }
